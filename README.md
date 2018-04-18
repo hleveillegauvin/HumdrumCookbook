@@ -20,4 +20,4 @@ Translating our melody to \*\*semits and then back to \*\*kern will standarize a
 
 __See Also__
 
-The Humdrum User Guide, Chapter 4, pp. 39-40.
+The Humdrum User Guide, [Chapter 4, pp. 39-40.](http://www.humdrum.org/guide/ch04/)
