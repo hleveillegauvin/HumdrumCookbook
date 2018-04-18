@@ -1,8 +1,13 @@
 # HumdrumCookbook
 How-to recipes to use the Humdrum Toolkit
 
+Written by Hubert Léveillé Gauvin  
+leveillegauvin.1@osu.edu
 
-### Standardizing enharmonic spellings
+# <a name="table-of-contents"></a> Table of Contents
+* [Standardizing Enharmonic Spellings](#standard-enharmonic)
+
+### <a name="standard-enharmonic"></a> Standardizing Enharmonic Spellings
 
 __Problem__
 
