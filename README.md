@@ -46,7 +46,7 @@ done
 
 __See Also__
 
-The Humdrum User Guide, [Chapter 4, pp. 20.](http://www.humdrum.org/guide/ch03/#the-census-command)
+The Humdrum User Guide, [Chapter 3, pp. 20.](http://www.humdrum.org/guide/ch03/#the-census-command)
 
 
 ### <a name="standard-enharmonic"></a> Standardizing Enharmonic Spellings
